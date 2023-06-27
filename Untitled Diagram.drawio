@@ -1,6 +1,6 @@
-<mxfile host="app.diagrams.net" modified="2023-06-27T16:55:29.365Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/114.0.0.0 Safari/537.36" etag="-FPUYC3Bb_4VW6CwNR1J" version="21.5.1" type="github">
+<mxfile host="app.diagrams.net" modified="2023-06-27T17:00:01.837Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/114.0.0.0 Safari/537.36" etag="ZaCGfeBFe0GG04c67vhN" version="21.5.1" type="github">
   <diagram name="Page-1" id="pB2exlWt6QaFZlM6VGMe">
-    <mxGraphModel dx="1588" dy="876" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+    <mxGraphModel dx="1323" dy="730" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -36,10 +36,10 @@
         <mxCell id="m7fnHq94GnEItDUNrG3p-13" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="m7fnHq94GnEItDUNrG3p-12" target="m7fnHq94GnEItDUNrG3p-11">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="m7fnHq94GnEItDUNrG3p-12" value="Can we keep this build this in any framework?" style="text;html=1;strokeColor=#b85450;fillColor=#f8cecc;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+        <mxCell id="m7fnHq94GnEItDUNrG3p-12" value="Can we keep this build this in any framework?" style="text;html=1;strokeColor=#666666;fillColor=#f5f5f5;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontColor=#333333;" vertex="1" parent="1">
           <mxGeometry x="41" y="640" width="310" height="120" as="geometry" />
         </mxCell>
-        <mxCell id="m7fnHq94GnEItDUNrG3p-14" value="built in angular" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#f8cecc;strokeColor=#b85450;" vertex="1" parent="1">
+        <mxCell id="m7fnHq94GnEItDUNrG3p-14" value="built in angular" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#f5f5f5;strokeColor=#666666;fontColor=#333333;" vertex="1" parent="1">
           <mxGeometry x="638" y="466" width="120" height="60" as="geometry" />
         </mxCell>
       </root>
